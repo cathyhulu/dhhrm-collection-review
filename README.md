@@ -19,3 +19,10 @@ Download juypter
 ```bash
 jupyter lab
 ```
+
+Download BeautifulSoup, Requests
+
+```bash
+uv pip install beautifulsoup4
+uv pip install requests
+```
